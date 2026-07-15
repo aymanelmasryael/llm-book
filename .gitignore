@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated markdown books (source copies, not needed for deployment)
+00_cover.md
+01_maqeda.md
+02_chapter1.md
+03_chapter2.md
+04_chapter3.md
+05_chapter4.md
+06_chapter5.md
+07_chapter6.md
+08_chapter7.md
+09_chapter8.md
+10_chapter9.md
+11_chapter10.md
+12_conclusion.md
